@@ -26,7 +26,7 @@ To get started with the project, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/Akhilesh1712/your-repo-name.git
+   git clone https://github.com/Akhilesh1712/MY_TODO.git
 2. **Make Frontend Directory and Navigate to  Directory:**
 
              cd Frontend
