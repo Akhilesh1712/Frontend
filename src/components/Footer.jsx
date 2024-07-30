@@ -13,7 +13,7 @@ const Footer = () => {
         <div className="mb-4 md:mb-0">
           <h2 className="text-lg font-bold">About Us</h2>
           <p className="text-sm max-w-xs">
-            We are the best crypto trading app in India, providing our guidance
+            I am the best app maker in India, providing our guidance
             at a very affordable price.
           </p>
         </div>
