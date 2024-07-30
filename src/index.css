@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary-bg: #ffffff;
+  --primary-text: #000000;
+}
+
+.dark {
+  --primary-bg: #1a202c;
+  --primary-text: #f7fafc;
+}
+
+body {
+  background-color: var(--primary-bg);
+  color: var(--primary-text);
+}
